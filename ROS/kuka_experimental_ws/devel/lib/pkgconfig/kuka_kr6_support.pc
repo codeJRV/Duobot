@@ -1,0 +1,8 @@
+prefix=/home/jrv/MyStuff/Advanced Robotics/kuka_experimental_ws/devel
+
+Name: kuka_kr6_support
+Description: Description of kuka_kr6_support
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/jrv/MyStuff/Advanced Robotics/kuka_experimental_ws/devel/lib 
+Requires: 

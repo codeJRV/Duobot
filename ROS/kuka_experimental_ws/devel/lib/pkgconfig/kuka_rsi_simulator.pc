@@ -1,0 +1,8 @@
+prefix=/home/jrv/MyStuff/Advanced Robotics/kuka_experimental_ws/devel
+
+Name: kuka_rsi_simulator
+Description: Description of kuka_rsi_simulator
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/jrv/MyStuff/Advanced Robotics/kuka_experimental_ws/devel/lib 
+Requires: 
