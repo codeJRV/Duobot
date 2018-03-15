@@ -1,0 +1,40 @@
+A Robotica input data for a two degree of freedom planar robot
+--------------------------------------------------------------
+DOF = 7
+The DH parameters:
+joint1 = revolute
+a1 = 0
+alpha1 = Pi/2
+d1 = 0.34
+theta1 = q1
+joint2 = revolute
+a2 = 0
+alpha2 = -Pi/2
+d2 = 0
+theta2 = q2
+joint3 = revolute
+a2 = 0
+alpha2 = -Pi/2
+d2 = 0.4
+theta2 = q3
+joint4 = revolute
+a1 = 0
+alpha1 = Pi/2
+d1 = 0
+theta1 = q4
+joint5 = revolute
+a1 = 0
+alpha1 = Pi/2
+d1 = 0.4
+theta1 = q5
+joint6 = revolute
+a1 = 0
+alpha1 = -Pi/2
+d1 = 0
+theta1 = q6
+joint7 = revolute
+a1 = 0
+alpha1 = Pi/2
+d1 = 0.126
+theta1 = q7
+
