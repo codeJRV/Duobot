@@ -8,3 +8,5 @@ Bottle opening : https://www.youtube.com/watch?v=po7kfic4Xjw
 
 Collaborative workpiece riveting : https://www.youtube.com/watch?v=GevBp3nj878
 
+
+ROBOTICS TOOLKIT : Run the installer and log in as jibin@tamu.edu and select license id 4891944.
